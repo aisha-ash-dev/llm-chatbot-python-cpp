@@ -1,0 +1,20 @@
+What is artificial intelligence?|Artificial intelligence (AI) is the field of building machines that can perform tasks that normally need human intelligence, such as learning, reasoning and understanding language.
+What is machine learning?|Machine learning is a branch of AI where computers learn patterns from data instead of being explicitly programmed with rules.
+What is a large language model?|A large language model (LLM) is a neural network trained on huge amounts of text to predict the next token. GPT, Claude and LLaMA are examples.
+What is a neural network?|A neural network is a model made of layers of connected nodes (neurons) that learns by adjusting weights to reduce prediction error.
+What is an AI agent?|An AI agent is a system that perceives a goal, plans steps, uses tools and observes results in a loop until the goal is done.
+What is RAG retrieval augmented generation?|Retrieval-Augmented Generation (RAG) first retrieves relevant documents and then gives them to an LLM as context so its answer is grounded in facts.
+What is a token?|A token is a small chunk of text, like a word or part of a word, that language models read and generate.
+What is Python?|Python is a high-level, beginner-friendly programming language widely used in AI, data science and web development.
+What is C++?|C++ is a fast, compiled, object-oriented language used for systems, games and performance-critical software.
+What is object oriented programming?|OOP organises code into classes and objects using encapsulation, inheritance, polymorphism and abstraction.
+What is an algorithm?|An algorithm is a finite sequence of clear steps that solves a problem.
+What is Git?|Git is a version control system that tracks changes in code so many people can work together safely.
+What is GitHub?|GitHub is a website that hosts Git repositories so you can store, share and collaborate on code.
+What is a hackathon?|A hackathon is a short event where teams build a working project, usually in 24 to 48 hours.
+What is an API?|An API is a set of rules that lets one program talk to another, for example your app calling an LLM service.
+What is TF-IDF?|TF-IDF scores how important a word is to a document by multiplying how often it appears there by how rare it is across all documents.
+What is cosine similarity?|Cosine similarity measures how similar two vectors are by the angle between them; 1 means identical direction.
+What is a database?|A database is an organised collection of data that can be stored, queried and updated efficiently.
+What is the internet?|The internet is a global network of connected computers that communicate using standard protocols such as TCP/IP.
+What is cybersecurity?|Cybersecurity is the practice of protecting systems, networks and data from digital attacks.

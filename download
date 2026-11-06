@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+notes.json
+library_data.json
+chatbot
+*.exe
+.vscode/
